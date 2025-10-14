@@ -14,6 +14,9 @@
 <img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137?label=Watching" alt="Crunchyroll" />
 
 ![spotify](https://api.statusbadges.me/badge/spotify/697499988636205137?label=Listening%20to)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ca69387-510f-4a78-8071-992f058e33e6/deploy-status)](https://app.netlify.com/projects/air3frame/deploys)
+
+
 
 </div>
 
