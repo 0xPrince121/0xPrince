@@ -87,7 +87,7 @@
   
 
 [![LinkedIn](https://img.icons8.com/3d-fluency/50/linkedin--v2.png)](https://www.linkedin.com/in/0x-prince-606535383?/)
-[![Instagram](https://img.icons8.com/3d-fluency/50/instagram-new.png)](https://www.instagram.com/princexae_/)
+[![Instagram](https://img.icons8.com/3d-fluency/50/instagram-new.png)](https://www.instagram.com/0xprince1/)
 [![GitHub](https://img.icons8.com/3d-fluency/50/github-logo.png)](https://github.com/0xPrince121/)
 [![Mail](https://img.icons8.com/fluency/50/mail--v1.png)](samratprince121@gmail.com)
 [![X](https://img.icons8.com/3d-fluency/50/x.png)](https://x.com/0xprince121?s=21/)
