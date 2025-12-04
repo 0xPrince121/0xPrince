@@ -93,7 +93,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-Contact-D14836?style=round&logo=gmail&logoColor=white)](mailto:samratprince121@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=round&logo=x&logoColor=white)](https://x.com/0xprince121?s=21/)
 
-
+<hr>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
