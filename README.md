@@ -5,7 +5,9 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
-![Profile Views](https://komarev.com/ghpvc/?username=0xPrince121&style=flat&color=DB1CFF&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=0xPrince121&style=flat&color=DB1CFF&label=Profile+Views)](https://github.com/0xPrince121)
+[![GitHub followers](https://img.shields.io/github/followers/0xPrince121?style=round&color=DB1CFF&logo=github)](https://github.com/0xPrince121)
+[![GitHub Stars](https://img.shields.io/github/stars/0xPrince121?style=round&color=DB1CFF&logo=github)](https://github.com/0xPrince121)
 
 <img src="https://api.statusbadges.me/badge/status/697499988636205137?label=Currently" alt="Status" />
 
@@ -82,15 +84,14 @@
 <p align="center">
     I’m <b><i>deeply passionate</i></b> about creating <i><b>innovative solutions</b></i> and bringing <i><b>impactful ideas</b></i> to life. If you’re excited to build something <i><b>truly extraordinary</b></i> or collaborate on a <i><b>meaningful project</b></i>, let’s connect and create something <i><b>remarkable</b>.</i>
 </p>
-
+</br></br>
 <div align="center">
   
-
-[![LinkedIn](https://img.icons8.com/3d-fluency/50/linkedin--v2.png)](https://www.linkedin.com/in/0x-prince-606535383?/)
-[![Instagram](https://img.icons8.com/3d-fluency/50/instagram-new.png)](https://www.instagram.com/0xprince1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0x-prince-606535383?/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=round&logo=instagram&logoColor=white)](https://www.instagram.com/0xprince1/)
 [![GitHub](https://img.icons8.com/3d-fluency/50/github-logo.png)](https://github.com/0xPrince121/)
-[![Mail](https://img.icons8.com/fluency/50/mail--v1.png)](samratprince121@gmail.com)
-[![X](https://img.icons8.com/3d-fluency/50/x.png)](https://x.com/0xprince121?s=21/)
+[![Mail](https://img.shields.io/badge/Gmail-Contact-D14836?style=round&logo=gmail&logoColor=white)](mailto:samratprince121@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=round&logo=x&logoColor=white)](https://x.com/0xprince121?s=21/)
 
 
 
